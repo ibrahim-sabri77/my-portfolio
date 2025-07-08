@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import './globals.css'
-import { Analytics } from '@vercel/analytics/react' // خلي بالك دي react مش next
+import { Analytics } from '@vercel/analytics/react' // 
 
 export const metadata: Metadata = {
   title: 'v0 App',

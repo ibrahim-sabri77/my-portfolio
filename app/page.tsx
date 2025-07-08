@@ -479,7 +479,7 @@ export default function PersonalWebsite() {
                   </Button>
                   <Button size="icon" variant="outline" asChild>
                     <a
-                      href="https://www.linkedin.com/in/ibrahim-sabry-99a45b348ibrahim-sabri77"
+                      href="https://www.linkedin.com/in/ibrahim-sabry-99a45b348"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -543,7 +543,7 @@ export default function PersonalWebsite() {
               </Button>
               <Button size="icon" variant="ghost" className="text-slate-400 hover:text-white" asChild>
                 <a
-                  href="https://www.linkedin.com/in/ibrahim-sabry-99a45b348ibrahim-sabri77"
+                  href="https://www.linkedin.com/in/ibrahim-sabry-99a45b348"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
